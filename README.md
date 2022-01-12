@@ -18,7 +18,6 @@
 
 <p>
 <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JeanLuca999&layout=compact&theme=radical&langs_count=8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeanluca999&theme=radical&show_icons=true"/>
 </p>
 
 <p>
