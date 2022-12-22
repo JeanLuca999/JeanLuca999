@@ -1,5 +1,5 @@
 # Saudações 👋
-🌎 Me chamo Jean. Sou um desenvolvedor Front-end e Estudante de Análise e Desenvolvimento de Sistemas.<br>
+🌎 Me chamo Jean. Sou um desenvolvedor Front-end e Graduado em Análise e Desenvolvimento de Sistemas.<br>
 
 ## Contato
 <a href="https://www.linkedin.com/in/jean-silva-ab2272200" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
@@ -12,6 +12,7 @@
 <img align="center" alt="css3" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="sass" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 <img align="center" alt="javascript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="javascript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="React" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </p>
