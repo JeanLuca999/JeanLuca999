@@ -7,7 +7,7 @@
 <a href="mailto:jean.luca.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 
 ## Stack de Desenvolvimento ✨
-<ul>
+<ul style="width: 100%; display: flex;">
   <li>
     <img align="center" alt="Html" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <strong>HTML5</strong>
