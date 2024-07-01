@@ -1,4 +1,4 @@
-## Sobre mim 👋
+## Sobre 👋
 - 📝 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec.
 - 💻  Desenvolvedor Front-End com experiência na construção de aplicações web utilizando React, Next, Typescript, JavaScript, Styled-Components, Redux, Testes unitários e Testes end-to-end com Cypress.<br>
 
