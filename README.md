@@ -1,6 +1,6 @@
 ## Sobre 👋
 - 📝 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec.
-- 💻  Desenvolvedor Front-End com experiência na construção de aplicações web utilizando React, Next, Typescript, JavaScript, Styled-Components, Redux, Testes unitários e Testes end-to-end com Cypress.<br>
+- 💻  Desenvolvedor Front-End com experiência na construção de aplicações web utilizando React, Next, Typescript, JavaScript, Styled-Components, Redux e Testes automatizados. <br>
 
 ## Contato 📫
 <a href="https://www.linkedin.com/in/jean-silva-ab2272200" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
