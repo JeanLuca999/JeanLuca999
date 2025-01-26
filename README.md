@@ -1,12 +1,11 @@
-## Sobre 👋
-- 📝 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec.
-- 💻  Desenvolvedor Front-End com experiência na construção de aplicações web utilizando React, Next, Typescript, JavaScript, Styled-Components, Redux e Testes automatizados. <br>
+## About 👋
+Experienced Front-End Developer with 2 years of experience, primarily focused on technologies such as React and Next.js. Dedicated to quality, delivering solutions that address customers pain and contribute to codebase quality.
 
-## Contato 📫
+## Contact 📫
 <a href="https://www.linkedin.com/in/jean-silva-ab2272200" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="mailto:jean.luca.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 
-## Linguagens e Ferramentas ✨
+## Tools ✨
 <div>
   <img align="center" alt="Html" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
