@@ -9,15 +9,16 @@ Experienced Front-End Developer with 2 years of experience, primarily focused on
   <img align="center" alt="Html" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="javascript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="javascript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"> 
+  <img align="center" alt="JavaScript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="TypeScript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
-  <img align="center" alt="git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg"> 
+  <img align="center" alt="Next" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Redux" height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Git" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
+  <img align="center" alt="Cypress" height="30" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Jest" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
+  <img align="center" alt="Vitest" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg">
 </div>
 <br>
 <br>
