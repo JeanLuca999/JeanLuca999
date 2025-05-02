@@ -1,5 +1,5 @@
 ## About 👋
-Experienced Front-End Developer with 2 years of experience, primarily focused on technologies such as React and Next.js. Dedicated to quality, delivering solutions that address customers pain and contribute to codebase quality.
+Experienced Front-End Developer, primarily focused on technologies such as React and Next. Dedicated to quality, delivering solutions that address customers pain and contribute to codebase quality.
 
 ## Get in Touch 📫
 <a href="https://www.linkedin.com/in/jean-silva-ab2272200" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
